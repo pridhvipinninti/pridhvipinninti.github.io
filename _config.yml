@@ -6,7 +6,7 @@ author:
   email: saipridhvipinninti@gmail.com
   github: https://github.com/pridhvipinninti
   linkedin: https://www.linkedin.com/in/pridhvi-pinninti/
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: daattali/beautiful-jekyll
 
 
 sass:

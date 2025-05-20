@@ -29,10 +29,10 @@
 - The data used in this project consists of transcript documents extracted from the personal interviews.
 - Each document is cleaned manually organised into a question and a corresponding context or answer, forming the basis for the question-answering model.
 
-- ![Project Github](https://github.com/pridhvipinninti/Endometriosis_Question_Answering)
+[Project Github](https://github.com/pridhvipinninti/Endometriosis_Question_Answering)
 
 ### Farmers Analytical Dashboard
-- ![Project Github]([https://github.com/pridhvipinninti/Endometriosis_Question_Answering](https://github.com/pridhvipinninti/Farmers-Analytical-Dashboard))
+[Project Github](https://github.com/pridhvipinninti/Farmers-Analytical-Dashboard)
 
   
 ### Automatic Kidney Abnormalities Detection Using CNN
@@ -41,4 +41,4 @@
 - Compared with Other Neural Networks.
 - Image analysis through Mobile.
 
-- ![Project Github]([https://github.com/pridhvipinninti/Endometriosis_Question_Answering](https://github.com/pridhvipinninti/Automatic-Kidney-Abnormalities-Detection-using-CNN))
+[Project Github](https://github.com/pridhvipinninti/Automatic-Kidney-Abnormalities-Detection-using-CNN)

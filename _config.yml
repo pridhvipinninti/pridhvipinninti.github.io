@@ -1,5 +1,18 @@
 title: Sai Pridhvi Pinninti
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+description: Data Scientist | Python, SQL, AWS, Snowflake, MATLAB
+url: "https://pridhvipinninti.github.io"
+author:
+  name: Sai Pridhvi Pinninti
+  email: saipridhvipinninti@gmail.com
+  github: https://github.com/pridhvipinninti
+  linkedin: https://www.linkedin.com/in/pridhvi-pinninti/
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css

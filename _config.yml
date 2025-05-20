@@ -6,7 +6,7 @@ author:
   email: saipridhvipinninti@gmail.com
   github: https://github.com/pridhvipinninti
   linkedin: https://www.linkedin.com/in/pridhvi-pinninti/
-remote_theme: jivancic/minimal-mistakes
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
 
